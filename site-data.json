@@ -2,306 +2,304 @@
   "business": {
     "name": "GPFS Plumbing & Fire Supply",
     "shortName": "GPFS",
-    "tagline": "Dallas's Trusted Plumbing & Fire Protection Experts Since 1995",
+    "tagline": "Dallas's Trusted Plumbing & Fire Protection Experts",
     "niche": "Plumber",
     "phone": "(469) 771-1800",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7am-5pm, Sat 8am-12pm, 24/7 Emergency Service",
-    "ctaLabel": "Get a Free Estimate",
+    "hours": "Mon-Fri 7am-6pm, Sat 8am-4pm",
+    "ctaLabel": "Schedule Service",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "GPFS Plumbing & Fire Supply | Premier Plumbers in Dallas, TX | (469) 771-1800",
-    "description": "GPFS Plumbing & Fire Supply offers expert plumbing and fire protection services in Dallas, TX. From residential repairs to commercial fire systems, trust our licensed team. Call (469) 771-1800 for 24/7 service."
+    "title": "Best Plumber in Dallas, TX | GPFS Plumbing & Fire Supply",
+    "description": "GPFS Plumbing & Fire Supply offers expert plumbing and fire protection services in Dallas. 24/7 emergency service, upfront pricing, and guaranteed work. Call (469) 771-1800."
   },
   "home": {
     "hero": {
       "eyebrow": "Dallas's Premier Plumbing & Fire Protection Company",
-      "headline": "Reliable Plumbing, Fire Safety & Peace of Mind",
-      "subheadline": "Licensed, bonded, and insured plumbers serving Dallas with 24/7 emergency service, upfront pricing, and workmanship guaranteed.",
-      "primaryCta": "Schedule Service",
-      "secondaryCta": "Get a Free Quote"
+      "headline": "Reliable Plumbing & Fire Safety Solutions for Your Home or Business",
+      "subheadline": "From emergency repairs to full fire suppression systems, we deliver fast, professional service with upfront pricing and a 100% satisfaction guarantee.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Emergency Service"
     },
     "stats": [
       {
-        "value": "28+",
-        "label": "Years of Experience"
+        "value": "15+",
+        "label": "Years Experience"
       },
       {
-        "value": "5,000+",
-        "label": "Happy Customers"
+        "value": "2,500+",
+        "label": "Projects Completed"
       },
       {
         "value": "4.9",
         "label": "Average Rating"
       },
       {
-        "value": "24/7",
-        "label": "Emergency Service"
+        "value": "99%",
+        "label": "On-Time Arrival"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Residential Plumbing",
-        "title": "Complete Home Plumbing Solutions",
-        "body": "From leaky faucets to full repipes, our Dallas plumbers handle it all with precision and care. We use the latest technology to diagnose issues quickly and fix them right the first time.",
+        "eyebrow": "Plumbing Services",
+        "title": "Complete Plumbing Solutions for Every Need",
+        "body": "Whether it's a leaky faucet or a full repipe, our licensed plumbers handle it all with precision and care. We use state-of-the-art equipment to diagnose issues quickly and provide lasting fixes.",
         "bullets": [
-          "Drain cleaning & sewer repair",
-          "Water heater installation & repair",
-          "Fixture upgrades & faucet repairs",
-          "Leak detection & slab leaks"
+          "Emergency repairs available 24/7",
+          "Upfront pricing — no hidden fees",
+          "Licensed, insured, and background-checked technicians"
         ],
         "reverse": false,
-        "cardLabel": "Residential",
-        "cardTitle": "Same-Day Service",
-        "cardBody": "Most repairs completed the same day you call. No unnecessary delays."
+        "cardLabel": "Why It Matters",
+        "cardTitle": "Peace of Mind",
+        "cardBody": "We don't just fix pipes; we protect your property. Every job comes with a workmanship guarantee so you can rest easy."
       },
       {
-        "eyebrow": "Fire Protection Systems",
-        "title": "Commercial & Residential Fire Safety",
-        "body": "We design, install, and maintain fire sprinkler systems, fire pumps, and backflow preventers to keep your property safe and code-compliant. Trust GPFS for all your fire protection needs.",
+        "eyebrow": "Fire Protection",
+        "title": "Fire Safety Systems That Meet Code & Protect Lives",
+        "body": "From design to installation and maintenance, we provide comprehensive fire protection services for commercial and residential properties. Stay compliant and safe.",
         "bullets": [
-          "Fire sprinkler system installation",
-          "Fire pump testing & repair",
-          "Backflow prevention & testing",
-          "Annual inspections & code compliance"
+          "Fire sprinkler system design & installation",
+          "Inspections, testing, and maintenance",
+          "Fire alarm and suppression systems"
         ],
         "reverse": true,
-        "cardLabel": "Fire Safety",
-        "cardTitle": "Licensed Fire Pros",
-        "cardBody": "Certified technicians with decades of fire protection experience."
+        "cardLabel": "Compliance",
+        "cardTitle": "Code Compliant",
+        "cardBody": "Our systems are designed to meet all local and national fire codes, ensuring your property passes inspection every time."
       }
     ],
-    "whyTitle": "Why Dallas Homeowners Choose GPFS",
+    "whyTitle": "Why Dallas Trusts GPFS",
     "whyChooseUs": [
       {
         "title": "Licensed & Insured",
-        "description": "Fully licensed, bonded, and insured for your peace of mind. We meet all Texas state requirements."
+        "description": "Fully licensed, bonded, and insured for your protection. We meet all Texas state requirements."
       },
       {
         "title": "Upfront Pricing",
-        "description": "No hidden fees. You'll know the cost before we start any work."
+        "description": "No surprises. You'll know the cost before we start any work, and we stand by our estimates."
       },
       {
         "title": "Same-Day Service",
-        "description": "Most calls are answered the same day. We respect your time."
+        "description": "Most calls are answered within 24 hours. Emergency services arrive within 2 hours."
       },
       {
-        "title": "Workmanship Guarantee",
-        "description": "We stand behind our work. If it's not right, we make it right."
+        "title": "Satisfaction Guaranteed",
+        "description": "If you're not happy, we'll make it right. Our work is backed by a 100% satisfaction guarantee."
       }
     ],
     "testimonials": [
       {
-        "quote": "GPFS saved our Thanksgiving! Our kitchen drain backed up and they came out within an hour. Fast, professional, and reasonably priced.",
+        "quote": "GPFS responded to my emergency pipe burst on a Sunday. They were at my door in 45 minutes and had everything fixed by evening. Professional and fair priced.",
+        "author": "Sarah M.",
+        "role": "Homeowner, Lakewood"
+      },
+      {
+        "quote": "We used GPFS for a full fire sprinkler retrofit in our office building. The team was meticulous, on time, and kept our workspace clean. Highly recommend.",
+        "author": "James L.",
+        "role": "Property Manager, Uptown"
+      },
+      {
+        "quote": "I've used GPFS for both plumbing and fire protection at my rental properties. They're reliable, communicate well, and their pricing is transparent.",
         "author": "Maria G.",
-        "role": "Lakewood Homeowner"
-      },
-      {
-        "quote": "We needed a full fire sprinkler retrofit for our office building. GPFS handled the design, permits, and installation seamlessly. Highly recommend.",
-        "author": "James T.",
-        "role": "Commercial Property Manager"
-      },
-      {
-        "quote": "I've used GPFS for years. They installed my water heater and fixed a slab leak. Always on time, clean, and friendly.",
-        "author": "Linda R.",
-        "role": "Highland Park Resident"
+        "role": "Real Estate Investor, Oak Lawn"
       }
     ],
     "cta": {
       "headline": "Ready to Solve Your Plumbing or Fire Safety Needs?",
-      "subheadline": "Call (469) 771-1800 now for a free estimate or emergency service.",
+      "subheadline": "Call us now or schedule online for a free estimate. We're here to help 24/7.",
       "primaryCta": "Call (469) 771-1800",
-      "secondaryCta": "Get a Free Quote"
+      "secondaryCta": "Book Online"
     }
   },
   "servicesPage": {
-    "intro": "From minor repairs to major installations, GPFS Plumbing & Fire Supply delivers expert plumbing and fire protection services across Dallas. Our licensed technicians use state-of-the-art equipment and proven techniques to ensure lasting results."
+    "intro": "At GPFS Plumbing & Fire Supply, we offer a full range of plumbing and fire protection services for homes and businesses in Dallas. Our licensed technicians bring years of experience, modern equipment, and a commitment to quality. Whether you need a quick repair or a complete system installation, we deliver reliable solutions that last."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Residential Plumbing",
-      "shortDescription": "Complete plumbing services for your home, from leak repairs to water heater installation.",
-      "longDescription": "Our residential plumbing team handles everything from dripping faucets to full repipes. We use video camera inspection to pinpoint issues and trenchless technology for minimal disruption. Whether you need a toilet repair, sewer line replacement, or new fixture installation, we deliver quality workmanship with a smile.",
+      "title": "Emergency Plumbing Repairs",
+      "shortDescription": "24/7 emergency service for burst pipes, sewer backups, and more.",
+      "longDescription": "Plumbing emergencies don't wait for business hours. That's why GPFS offers round-the-clock emergency service. Our rapid response team arrives within 2 hours to assess and fix the issue, minimizing damage to your property. From frozen pipes to overflowing toilets, we handle it all with professionalism and speed.",
       "benefits": [
-        "Fast, same-day service for most repairs",
-        "Upfront pricing with no surprises",
-        "Licensed, experienced plumbers",
-        "Workmanship guaranteed"
+        "24/7 availability including holidays",
+        "2-hour response time guaranteed",
+        "Advanced diagnostic equipment",
+        "Temporary fixes to prevent further damage"
       ],
       "process": [
         {
-          "title": "Diagnose",
-          "description": "We thoroughly inspect the issue using advanced tools like camera scopes and leak detectors."
+          "title": "Call & Dispatch",
+          "description": "Call our emergency line. We gather details and dispatch the nearest technician immediately."
         },
         {
-          "title": "Propose",
-          "description": "We explain the problem and provide a clear, written estimate before any work begins."
+          "title": "Rapid Assessment",
+          "description": "Our technician arrives, diagnoses the problem, and provides a clear estimate before any work begins."
         },
         {
-          "title": "Repair",
-          "description": "Our skilled plumbers complete the repair efficiently, leaving your home clean and your system working perfectly."
+          "title": "Repair & Cleanup",
+          "description": "We complete the repair efficiently, test the system, and clean the work area thoroughly."
         }
       ],
       "faqs": [
         {
-          "question": "Do you offer emergency plumbing services?",
-          "answer": "Yes, we provide 24/7 emergency plumbing service. Call (469) 771-1800 anytime for urgent issues like burst pipes or sewer backups."
+          "question": "How quickly can you respond to an emergency?",
+          "answer": "We aim to arrive within 2 hours for all emergency calls. In many cases, we're there within 60 minutes."
         },
         {
-          "question": "How much does a plumber cost in Dallas?",
-          "answer": "Costs vary by job. We offer free estimates and upfront pricing so you know exactly what you'll pay before we start."
+          "question": "Do you charge extra for emergency service?",
+          "answer": "Yes, there is a modest after-hours fee, but we always provide the estimate upfront so there are no surprises."
         }
       ],
-      "slug": "residential-plumbing"
+      "slug": "emergency-plumbing-repairs"
     },
     {
       "icon": "02",
-      "title": "Commercial Plumbing",
-      "shortDescription": "Reliable plumbing solutions for businesses, restaurants, and multi-family properties.",
-      "longDescription": "GPFS keeps Dallas businesses flowing. We handle commercial plumbing for offices, retail spaces, restaurants, and apartment complexes. Our services include backflow prevention, grease trap maintenance, sewer line repairs, and new construction plumbing. We minimize downtime with after-hours service and proactive maintenance plans.",
+      "title": "Water Heater Installation & Repair",
+      "shortDescription": "Expert water heater services including tankless and traditional units.",
+      "longDescription": "Don't settle for cold showers. GPFS installs, repairs, and maintains all types of water heaters: tank, tankless, and hybrid. We help you choose the right size and energy-efficient model for your home, then install it professionally. Our repair services can extend the life of your existing unit and restore hot water fast.",
       "benefits": [
-        "Minimal disruption to your business",
-        "Preventative maintenance plans available",
-        "Expertise in commercial codes & permits",
-        "After-hours emergency service"
+        "Free consultation on best unit for your home",
+        "Installation of all major brands",
+        "Energy-efficient options to lower bills",
+        "Warranty on parts and labor"
       ],
       "process": [
         {
-          "title": "Assessment",
-          "description": "We evaluate your property's plumbing system and identify potential issues."
+          "title": "Inspection & Recommendation",
+          "description": "We assess your current system, water usage, and budget to recommend the best solution."
         },
         {
-          "title": "Plan",
-          "description": "We create a customized solution that fits your schedule and budget."
+          "title": "Professional Installation",
+          "description": "Our team installs the unit per manufacturer specs and local codes, ensuring safety and efficiency."
         },
         {
-          "title": "Execute",
-          "description": "Our team completes the work efficiently with minimal disruption to your operations."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "Do you service restaurants?",
-          "answer": "Absolutely. We specialize in commercial kitchen plumbing, including grease traps, high-temp water heaters, and floor drains."
-        },
-        {
-          "question": "Can you handle new construction plumbing?",
-          "answer": "Yes, we provide rough-in and finish plumbing for commercial new builds and remodels."
-        }
-      ],
-      "slug": "commercial-plumbing"
-    },
-    {
-      "icon": "03",
-      "title": "Fire Protection Systems",
-      "shortDescription": "Design, installation, and maintenance of fire sprinklers, pumps, and backflow preventers.",
-      "longDescription": "GPFS is your full-service fire protection partner. We design and install fire sprinkler systems for commercial and residential properties, perform annual inspections, and repair fire pumps and backflow devices. Our licensed technicians ensure your system meets all local and national fire codes.",
-      "benefits": [
-        "Code-compliant installations & inspections",
-        "Extended system lifespan with maintenance",
-        "Licensed fire protection specialists",
-        "24/7 emergency fire system repair"
-      ],
-      "process": [
-        {
-          "title": "Design",
-          "description": "We create a fire protection plan tailored to your building's layout and occupancy."
-        },
-        {
-          "title": "Install",
-          "description": "Our team installs sprinklers, pumps, and backflow devices with precision."
-        },
-        {
-          "title": "Maintain",
-          "description": "We offer annual inspections, testing, and repairs to keep your system in top shape."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often do fire sprinklers need inspection?",
-          "answer": "NFPA requires annual inspections. We also recommend quarterly visual checks."
-        },
-        {
-          "question": "Do you install fire pumps?",
-          "answer": "Yes, we install and service electric and diesel fire pumps for commercial buildings."
-        }
-      ],
-      "slug": "fire-protection-systems"
-    },
-    {
-      "icon": "04",
-      "title": "Water Heater Services",
-      "shortDescription": "Installation, repair, and replacement of tank and tankless water heaters.",
-      "longDescription": "Don't get caught in a cold shower. GPFS installs and repairs all types of water heaters, including traditional tank, tankless, and hybrid models. We help you choose the right size and energy-efficient option for your home or business. Our same-day service means you'll have hot water fast.",
-      "benefits": [
-        "Expert advice on energy-efficient models",
-        "Same-day installation available",
-        "Extended warranties on parts & labor",
-        "Tankless, tank, & hybrid options"
-      ],
-      "process": [
-        {
-          "title": "Consult",
-          "description": "We assess your hot water needs and recommend the best system for your budget."
-        },
-        {
-          "title": "Install",
-          "description": "Our plumbers install your new water heater safely and efficiently."
-        },
-        {
-          "title": "Test",
-          "description": "We test the system and ensure optimal performance before we leave."
+          "title": "Testing & Walkthrough",
+          "description": "We test the system, show you how to operate it, and answer any questions."
         }
       ],
       "faqs": [
         {
           "question": "How long does a water heater installation take?",
-          "answer": "Most installations are completed in one visit, typically 2-4 hours."
+          "answer": "A typical installation takes 2-4 hours. Tankless units may take longer due to venting and gas line modifications."
         },
         {
-          "question": "Should I choose tank or tankless?",
-          "answer": "Tankless heaters save energy and space but have higher upfront cost. We'll help you decide based on your usage and budget."
+          "question": "What size water heater do I need?",
+          "answer": "For a family of 4, a 50-gallon tank is standard. We'll calculate your peak hour demand to recommend the perfect size."
         }
       ],
-      "slug": "water-heater-services"
+      "slug": "water-heater-installation-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Fire Sprinkler Systems",
+      "shortDescription": "Design, installation, and maintenance of fire sprinkler systems.",
+      "longDescription": "Protect your property and occupants with a reliable fire sprinkler system. GPFS designs and installs systems for commercial and residential buildings, ensuring full compliance with NFPA and local codes. We also provide annual inspections, testing, and maintenance to keep your system ready.",
+      "benefits": [
+        "Custom design for your building layout",
+        "Code-compliant installation",
+        "Annual inspection & maintenance plans",
+        "Reduced insurance premiums"
+      ],
+      "process": [
+        {
+          "title": "Site Survey & Design",
+          "description": "We evaluate your building, occupancy, and fire risks to create a tailored sprinkler design."
+        },
+        {
+          "title": "Installation",
+          "description": "Our certified technicians install piping, sprinkler heads, and control panels with minimal disruption."
+        },
+        {
+          "title": "Testing & Certification",
+          "description": "We test the system thoroughly and provide certification documents for insurance and code compliance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do I need a fire sprinkler system for my business?",
+          "answer": "Requirements vary by building type and occupancy. We can help you determine if a system is required or recommended."
+        },
+        {
+          "question": "How often should sprinkler systems be inspected?",
+          "answer": "NFPA 25 requires annual inspections. We offer maintenance plans to ensure your system stays compliant."
+        }
+      ],
+      "slug": "fire-sprinkler-systems"
+    },
+    {
+      "icon": "04",
+      "title": "Drain Cleaning & Sewer Services",
+      "shortDescription": "Professional drain cleaning and sewer line repair using advanced technology.",
+      "longDescription": "Clogged drains and sewer backups are messy and stressful. GPFS uses hydro-jetting and video camera inspection to clear blockages and identify underlying issues. We repair or replace damaged sewer lines with trenchless technology when possible, saving your landscaping and driveway.",
+      "benefits": [
+        "Video camera inspection for accurate diagnosis",
+        "Hydro-jetting removes grease, roots, and debris",
+        "Trenchless repair options to minimize digging",
+        "Preventative maintenance plans available"
+      ],
+      "process": [
+        {
+          "title": "Camera Inspection",
+          "description": "We insert a camera into the drain to locate the blockage and assess pipe condition."
+        },
+        {
+          "title": "Clearing the Blockage",
+          "description": "Using hydro-jetting or auger, we remove the obstruction thoroughly."
+        },
+        {
+          "title": "Post-Clearing Inspection",
+          "description": "We re-inspect with camera to confirm the line is clear and recommend repairs if needed."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What causes sewer line backups?",
+          "answer": "Common causes include tree root intrusion, grease buildup, and pipe corrosion. Our camera inspection identifies the exact cause."
+        },
+        {
+          "question": "How long does drain cleaning take?",
+          "answer": "Most drain cleaning jobs are completed within 1-2 hours. Sewer line repairs may take longer depending on the method."
+        }
+      ],
+      "slug": "drain-cleaning-sewer-services"
     }
   ],
   "about": {
-    "headline": "Dallas's Trusted Plumbing & Fire Protection Team",
-    "mission": "To provide Dallas with reliable, honest, and expert plumbing and fire protection services that ensure safety, comfort, and peace of mind.",
+    "headline": "Your Dallas Partner in Plumbing & Fire Protection",
+    "mission": "To provide Dallas homeowners and businesses with reliable, code-compliant plumbing and fire protection services delivered with integrity, transparency, and exceptional craftsmanship.",
     "story": [
-      "GPFS Plumbing & Fire Supply was founded in 1995 by a team of master plumbers and fire protection specialists who saw a need for a company that could handle both trades with equal expertise. Starting with a single truck, we built a reputation for quality work and honest communication. Over the years, we've grown into one of Dallas's most trusted service providers, serving thousands of homeowners and businesses.",
-      "Today, GPFS remains family-owned and operated. We invest in ongoing training, state-of-the-art equipment, and a customer-first approach. Whether it's a leaky faucet or a complex fire suppression system, we treat every job with the same commitment to excellence. Our team lives and works in Dallas, so we care about the community we serve."
+      "GPFS Plumbing & Fire Supply was founded by a team of licensed plumbers and fire protection specialists who saw a gap in the market: companies that excelled in one area but couldn't offer integrated solutions. We combined our expertise to serve Dallas properties comprehensively, from fixing a leaky pipe to installing a full fire suppression system.",
+      "Today, we're proud to be a trusted name in the community. Our team continues to train on the latest technologies and codes, ensuring every job meets the highest standards. We believe in treating customers like neighbors — with respect, honesty, and a commitment to doing the job right the first time."
     ],
     "highlight": {
-      "stat": "28+",
-      "label": "Years of Serving Dallas"
+      "stat": "2,500+",
+      "label": "Projects Completed"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We do what we say and stand behind our work."
+        "description": "We do what we say, and we always provide honest advice — even if it means recommending a less expensive solution."
       },
       {
-        "title": "Expertise",
-        "description": "Continuous training ensures we stay ahead of industry advances."
-      },
-      {
-        "title": "Reliability",
-        "description": "We show up on time and get the job done right."
+        "title": "Quality",
+        "description": "We use top-grade materials and follow best practices to ensure every installation or repair stands the test of time."
       },
       {
         "title": "Safety",
-        "description": "Every job is performed with the highest safety standards."
+        "description": "From plumbing to fire protection, safety is paramount. We strictly follow codes and safety protocols."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to serve Dallas and give back through local sponsorships and free safety inspections for nonprofits."
       }
     ]
   },
   "contact": {
-    "headline": "Contact GPFS Plumbing & Fire Supply",
-    "subheadline": "Ready for expert plumbing or fire protection service? Call or fill out the form and we'll get back to you fast.",
+    "headline": "Get in Touch with GPFS",
+    "subheadline": "Call us, email, or fill out the form below. We'll respond within 1 business day.",
     "primaryCta": "Call (469) 771-1800",
     "formCta": "Send Message",
     "serviceAreas": [
@@ -309,10 +307,12 @@
       "Highland Park",
       "University Park",
       "Lakewood",
-      "Preston Hollow",
       "Oak Lawn",
       "Uptown",
-      "Downtown Dallas"
+      "Deep Ellum",
+      "Bishop Arts District",
+      "Preston Hollow",
+      "Park Cities"
     ]
   },
   "social_proof": {
